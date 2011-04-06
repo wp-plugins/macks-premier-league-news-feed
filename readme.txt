@@ -12,8 +12,7 @@ Lists the Latest Premier League News
 
 Mack's Premier League News Feed plugin incorporates an external RSS news feed into a cool looking Flash news feed. The feed moves from bottom to top, with a nice Premier League graphic, followed by headlines and stories. You can click on a story title or summary to see the actual page where it is posted. You can also edit the width and height of the plugin to suit your needs. Finally, you can select how many articles you want to appear in the feed: 1 to 10.
 
-Relevant Keywords: pga, golf, golfing, golf news, pga news, pro golf, golf rumors, golf leader board, top golfers, best golfers
-
+Relevant Keywords: football, soccer, soccer news, football news, premier league, barclays, barclays premier league, barclays football league, barclays soccer, futbol, english football, UK soccer, english soccer, premier, premiership
 Thanks,
 
 Mack Bincroft
