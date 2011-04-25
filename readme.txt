@@ -13,6 +13,30 @@ Lists the Latest Premier League News
 Mack's Premier League News Feed plugin incorporates an external RSS news feed into a cool looking Flash news feed. The feed moves from bottom to top, with a nice Premier League graphic, followed by headlines and stories. You can click on a story title or summary to see the actual page where it is posted. You can also edit the width and height of the plugin to suit your needs. Finally, you can select how many articles you want to appear in the feed: 1 to 10.
 
 Relevant Keywords: football, soccer, soccer news, football news, premier league, barclays, barclays premier league, barclays football league, barclays soccer, futbol, english football, UK soccer, english soccer, premier, premiership
+
+A variety of news is available, including:
+<ul>
+<li>Latest Premier League News</li>
+<br />
+<li>Individual Player News</li>
+<br />
+<li>Trades/Contract Updates</li>
+<br />
+<li>Premier League Rumors</li>
+<br />
+<li>Premier League Gossip, Chat</li>
+<br />
+<li>Training Schedules</li>
+<br />
+<li>Game Results</li>
+<br />
+<li>Championship Updates</li>
+<br />
+<li>UEFA Champions League Entries</li>
+</ul>
+
+Since gaming is legalized in the UK, this plugin can be permitted to use at <a href="http://www.sportsbetting12.com">sports betting sites</a> (for the UK). Alternatively, it could be used as a supplement at legal USA horse racing websites, where one can learn <a href="http://www.sportsbetting3.com/how_to_bet_on_horses.php">how to bet on horses</a>. Any global top <a href="http://www.more-online-casinos.us">online casinos</a> site are eligibles too.
+
 Thanks,
 
 Mack Bincroft
