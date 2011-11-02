@@ -3,7 +3,7 @@ Contributors: mackbincroft
 Donate link: http://www.jawer.org
 Tags: football, soccer, soccer news, football news, premier league, barclays, barclays premier league, barclays football league, barclays soccer, futbol, english football, UK soccer, english soccer, premier, premiership
 Requires at least: 2.2.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: 0.5
 
 Lists the Latest Premier League News
