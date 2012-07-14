@@ -35,11 +35,6 @@ A variety of news is available, including:
 <li>UEFA Champions League Entries</li>
 </ul>
 
-Since gaming is legalized in the UK, this plugin can be permitted to use at <a href="http://www.sportsbetting12.com">sports betting sites</a> (for the UK). Alternatively, it could be used as a supplement at legal USA horse racing websites, where one can learn <a href="http://www.sportsbetting3.com/how_to_bet_on_horses.php">how to bet on horses</a>. Any global top <a href="http://www.more-online-casinos.us">online casinos</a> site are eligibles too. For non-English speaks:<br />
-<a href="http://www.macaubaccarat888.com" target="_blank">&#22312;&#32447;&#30334;&#23478;&#20048;</a> | <a href="http://www.montecarlo888.com" target="_blank"></a><br />
-<a href="http://www.baccarat999.com" target="_blank">&#30334;&#23478;&#20048;</a><br />
-
-
 Thanks,
 
 Mack Bincroft
